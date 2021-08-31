@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 啊~好开心啊啊啊
 
 You can use the [editor on GitHub](https://github.com/pickedfort/pick/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
